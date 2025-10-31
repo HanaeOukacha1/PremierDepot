@@ -1,0 +1,16 @@
+# Ignorer les fichiers compilés Java
+tp4_hanae/bin/
+*.class
+
+# Ignorer fichiers Eclipse
+tp4_hanae/.classpath
+tp4_hanae/.project
+tp4_hanae/.settings/
+
+# Ignorer fichiers temporaires ou logs
+*.o
+*.tmp
+*.log
+
+# Ignorer exécutables
+*.exe
